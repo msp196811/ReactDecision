@@ -1,0 +1,21 @@
+.section__employee{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 calc(50% - 590px);
+}
+.employee__title{
+    margin: 0 auto;
+    padding-top: 40px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.employee__list{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+.section__employee__detail{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.employee__details__title{
+    box-sizing: border-box;
+    padding-top: 30px;
+    text-align: center;
+}
