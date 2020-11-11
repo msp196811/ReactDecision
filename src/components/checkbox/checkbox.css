@@ -1,0 +1,44 @@
+.checkbox_conrainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.btn_checkbox{
+    max-width: 60px;
+    min-width: 100%;
+}
+
+nav ul{height:100px; width:20%;}
+nav ul{overflow:hidden; overflow-y:scroll;}
+.list-group{
+    max-width: 280px;
+    min-width: 8em;
+}
+
+.menu__list{
+    width: 100%;
+    list-style: none;
+    padding-left: 0;
+}
+
+
+.checkbox__title{
+    font-size: 1em;
+    text-align: center;
+}
+
+
+
+
+
+.checkbox__2{
+    margin-top: 30px;
+}
+.form__age{
+    max-width: 100px;
+}
+
+.row{
+    margin-right: -46px;
+}
