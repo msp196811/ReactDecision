@@ -1,0 +1,13 @@
+.cover__img{
+    max-height: 68px;
+    max-width: 68px;
+    min-height: auto;
+    min-width: auto;
+    width: 68px;
+    height: 68px;
+}
+
+.link__people{
+    text-decoration: none;
+    color: darkblue;
+}
