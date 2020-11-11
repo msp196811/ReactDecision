@@ -1,0 +1,22 @@
+.header__app{
+    width: 100%;
+    height: 60px;
+    display: flex;
+}
+
+.header__right{
+    margin-left: auto;
+}
+
+.navbar{
+    width: 100%;
+    background: #eceff1;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: darkblue;
+}
+.logo__img{
+    max-width: 100px;
+    border-radius: 8px;
+    box-shadow: 0 0 0 1px darkblue, 0 0 16px #333;
+}
